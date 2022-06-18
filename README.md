@@ -1,6 +1,7 @@
-### Hi there 👋
-#### I'm always looking for some brilliant ideas everyday🔭
-####
+### Hi there!👋
+#### I'm always looking for some brilliant ideas everyday.🔭
+#### I don't have any specific main language or tech so for🤔, but I'm especially interested in data structure.✨
+#### I'm going to try my best until this small lawn becomes a huge golf course!🌱 
 
 
 <!--
