@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### I'm always looking for some brilliant ideas everyday🔭
+####
+
 
 <!--
 **jieunyy/jieunyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
